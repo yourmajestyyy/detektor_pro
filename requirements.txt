@@ -1,0 +1,9 @@
+opencv-python>=4.8
+mediapipe==0.10.14
+numpy<2
+pygame>=2.5
+sounddevice>=0.4.6
+faster-whisper>=1.0
+edge-tts>=6.1
+# opsional, hanya untuk GPS_MODE="serial":
+# pyserial>=3.5
